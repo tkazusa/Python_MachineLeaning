@@ -4,5 +4,5 @@
 
 
 def test():
-    pass
+    return 1+!
 
